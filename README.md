@@ -1,5 +1,7 @@
 ## Description
 
+This is Dream Control, a Unity 3D platformer born from a three-hour game creation challenge with my brother, where each of us crafted a game. Embark on a dark journey through the depths of the subconscious mind. Navigate through dream levels and cutscenes as you attempt to save... yourself.
+
 ## Preview
 
 <img src="assets/preview-fire.gif" alt="Alt Text" width="600" height="350" />
