@@ -6,11 +6,15 @@ This is Dream Control, a Unity 3D platformer born from a three-hour game creatio
 
 <img src="assets/preview-car.gif" alt="Alt Text" width="600" height="350" />
 
-Car level
+Drive around the level and catch coins to progress to the subsequent levels.
 
 <img src="assets/preview-scene.gif" alt="Alt Text" width="600" height="350" />
 
-Kidnapped scene
+Save yourself from your kidnappers.
+
+## Disclaimer
+
+As mentioned in the description, this is just a silly puny game created for the fun of it as part of a challenge.
 
 ## Dependencies
 Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for more information, please refer to the acknowledgements file):
