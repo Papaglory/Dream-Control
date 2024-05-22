@@ -1,5 +1,15 @@
 ## Description
 
+## Preview
+
+<img src="assets/preview-fire.gif" alt="Alt Text" width="600" height="350" />
+
+Car level
+
+<img src="assets/preview-fire.gif" alt="Alt Text" width="600" height="350" />
+
+Kidnapped scene
+
 ## Dependencies
 Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for more information, please refer to the acknowledgements file):
 * Free LowpolyCar by Nextlog Art Factory.
