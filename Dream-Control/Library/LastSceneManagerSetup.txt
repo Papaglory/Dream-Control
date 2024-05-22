@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Game04Car.unity
+  isLoaded: 1
+  isActive: 1
