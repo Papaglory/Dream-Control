@@ -4,11 +4,11 @@ This is Dream Control, a Unity 3D platformer born from a three-hour game creatio
 
 ## Preview
 
-<img src="assets/preview-fire.gif" alt="Alt Text" width="600" height="350" />
+<img src="assets/preview-car.gif" alt="Alt Text" width="600" height="350" />
 
 Car level
 
-<img src="assets/preview-fire.gif" alt="Alt Text" width="600" height="350" />
+<img src="assets/preview-scene.gif" alt="Alt Text" width="600" height="350" />
 
 Kidnapped scene
 
