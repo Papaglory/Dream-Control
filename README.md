@@ -28,5 +28,9 @@ Uses the Unity Engine (version 2022.3.29f1) along with the following assets (for
 * Gasp Male by bertiehs.
 * wind and trees and snow by tim.kahn.
 
+## Further Information
+
+For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/dream-control](https://mariusnaasen.com/projects/dream-control).
+
 ## Author
 Marius H. Naasen, originally created 2018.
